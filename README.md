@@ -1,6 +1,6 @@
 ## Callum Manning's Github Repository
 
-[![github-stats-card](https://kasroudra-stats-card.onrender.com/lang?user=CManning221b&theme=dark&sort=desc&exclude_lang=HTML)](https://github.com/KasRoudra/github-stats-card)
+[![github-stats-card](https://kasroudra-stats-card.onrender.com/lang?user=CManning221b&theme=dark&layout=compact&sort=desc&exclude_lang=HTML)](https://github.com/KasRoudra/github-stats-card)
 
 
 <!--
