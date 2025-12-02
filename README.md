@@ -2,8 +2,8 @@
 I'm a PhD student at the Strathclyde University, with an interest in Intelligent Systems, Ontologies, Knowledge Graphs and NeuroSymbolic Ai<br>I have an MEng in Computer and Electronic Systems from the University of Strathclyde
 
 
-## LinkedIn:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/callum-manning-289767143/) 
+## Online Profiles:
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/callum-manning-289767143/) 
 [![ORCID](https://img.shields.io/badge/orcid-A6CE39?style=for-the-badge&logo=orcid&logoColor=white)](https://orcid.org/0009-0001-5293-5022) 
 [![GoogleScholar](https://img.shields.io/badge/Google_Scholar-4285F4?style=for-the-badge&logo=google-scholar&logoColor=white)](https://scholar.google.com/citations?user=xXh9FPcAAAAJ&hl=en&oi=ao) 
 	
