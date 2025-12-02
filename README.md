@@ -1,7 +1,6 @@
 ## Callum Manning's Github Repository
 
-| <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=CManning221b&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="Callum's github stats" /></a> | <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CManning221b&layout=compact&theme=buefy&hide_border=true" /></a> |
-| ------------- | ------------- |
+[![github-stats-card](https://kasroudra-stats-card.onrender.com/user?user=CManning221b&layout=compact&theme=buefy)](https://github.com/KasRoudra/github-stats-card)
 
 
 <!--
