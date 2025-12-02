@@ -15,7 +15,7 @@ I'm a PhD student @ Strathclyde University, with an interest in Intelligent Syst
 [![github-stats-card](https://kasroudra-stats-card.onrender.com/lang?user=CManning221b&theme=dark&layout=compact&sort=desc&exclude_lang=HTML)](https://github.com/KasRoudra/github-stats-card)
 
 ## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=CManning221b&theme=gruvbox&no-frame=false&no-bg=true&margin-w=4&rank=-?)
+![](https://github-profile-trophy.vercel.app/?username=CManning221b&theme=gruvbox&no-frame=false&no-bg=true&margin-w=4&rank=-?,-C)
 
 ---
 [![](https://visitcount.itsvg.in/api?id=CManning221b&icon=0&color=0)](https://visitcount.itsvg.in)
