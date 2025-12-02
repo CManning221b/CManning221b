@@ -1,6 +1,6 @@
 ## Callum Manning's Github Repository
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=CManning221b)](https://github.com/anuraghazra/github-readme-stats)
+[![CManning221b's GitHub stats](https://github-readme-stats.vercel.app/api?username=CManning221b)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--
 **CManning221b/CManning221b** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
