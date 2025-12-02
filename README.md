@@ -1,5 +1,5 @@
 # About Me:
-I'm a PhD student @ Strathclyde University, with an interest in Intelligent Systems,<br>Ontologies, Knowledge Graphs and NeuroSymbolic Ai<br>I have an MEng in Computer and Electronic Systems from the University of Strathclyde
+I'm a PhD student at the Strathclyde University, with an interest in Intelligent Systems, Ontologies, Knowledge Graphs and NeuroSymbolic Ai<br>I have an MEng in Computer and Electronic Systems from the University of Strathclyde
 
 
 ## LinkedIn:
@@ -21,21 +21,3 @@ I'm a PhD student @ Strathclyde University, with an interest in Intelligent Syst
 [![](https://visitcount.itsvg.in/api?id=CManning221b&icon=0&color=0)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
-
-
-
-
-<!--
-**CManning221b/CManning221b** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
