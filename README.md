@@ -13,7 +13,6 @@ I'm a PhD student at the Strathclyde University, with an interest in Intelligent
 # GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=CManning221b&theme=dark&hide_border=true&include_all_commits=true&count_private=true)<br/>
 ![](https://nirzak-streak-stats.vercel.app/?user=CManning221b&theme=dark&hide_border=true)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=CManning221b&theme=dark&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
 [![github-stats-card](https://kasroudra-stats-card.onrender.com/lang?user=CManning221b&theme=dark&layout=compact&sort=desc&exclude_lang=HTML)](https://github.com/KasRoudra/github-stats-card)
 
 ![](https://github-profile-trophy.vercel.app/?username=CManning221b&theme=gruvbox&no-frame=false&no-bg=true&margin-w=4&rank=-?,-C)
